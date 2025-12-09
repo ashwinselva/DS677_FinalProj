@@ -1,4 +1,4 @@
-path: /content/billboard_all
+path: /billboard_all
 train: images/train
 val: images/val
 names:
